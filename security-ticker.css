@@ -2,8 +2,8 @@
 /* شريط التنبيه الأمني */
 .security-ticker {
     width: 100%;
-    background: linear-gradient(90deg, #930404, #c40505);
-    color: white;
+    background: linear-gradient(90deg, #00a13b, #05c488);
+    color: rgb(0, 0, 0);
     font-weight: bold;
     font-size: 15px;
     padding: 7px 0;
@@ -24,3 +24,4 @@
     0%   { transform: translateX(-100%); }  /* يبدأ من أقصى اليسار */
     100% { transform: translateX(100%); }   /* ينتهي في أقصى اليمين */
 }
+
